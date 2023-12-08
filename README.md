@@ -19,11 +19,10 @@ Battle Tanks
   
 * Chat System
   - Shows when new players join and leave
-  - Messages accross the server and other clients receve it
+  - Messages across the server and other clients receive it
   
 * Custom Tank class selection with different levels of health
 
-* Chat System
 
 
 ## How To Use
